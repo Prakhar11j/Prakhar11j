@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm Dikshant Sharma</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm Prakhar</h1>
 <h3 align="center">In Love with programming, from India</h3>
 
 
@@ -22,7 +22,7 @@
         <code>Java</code> <code>Spring-Boot</code> <br> <code>MicroServices</code> <code>Selenium</code> <br> <code>Python</code> <code>MongoDB</code> <br> <code>Amazon S3</code> <code>Redis</code>
       </td>
       <td>Full-Time</td>
-      <td>October 2024 - Present</td>
+      <td>June 2023 - Present</td>
     </tr>
     <tr>
       <td>Backend SDE Intern</td>
@@ -31,16 +31,16 @@
         <code>Java</code> <code>Spring-Boot</code> <br> <code>MicroServices</code> <code>Python</code> <br> <code>Amazon S3</code> <code>Amazon-SQS</code> <br> <code>MongoDB</code>
       </td>
       <td>Internship</td>
-      <td>March 2024 - October 2024</td>
+      <td>November 2022 - May 2023</td>
     </tr>
     <tr>
-      <td>Full Stack Developer Intern</td>
+      <td>Wipro Trainee</td>
       <td><img src="https://github.com/dikshant945/dikshant945/blob/main/Main/Dotpe_Logo_1.jpg" width="30" height="30"/> <br> <a href="https://www.dotpe.in">Dotpe Pvt Ltd</a></td>
       <td>
         <code>Node.js</code> <code>React.js</code> <br> <code>Ext.js</code> <code>MongoDB</code> <br> <code>Postman</code> <code>Python</code> <br> <code>Snowflake</code>
       </td>
       <td>Internship</td>
-      <td>August 2023 - March 2024</td>
+      <td>Jun 2022 - October 2022</td>
     </tr>
   </tbody>
 </table>
