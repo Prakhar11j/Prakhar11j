@@ -35,7 +35,7 @@
     </tr>
     <tr>
       <td>Wipro Trainee</td>
-      <td><img src="https://github.com/dikshant945/dikshant945/blob/main/Main/Dotpe_Logo_1.jpg" width="30" height="30"/> <br> <a href="https://www.dotpe.in">Dotpe Pvt Ltd</a></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Wipro_Primary_Logo_Color_RGB.svg" width="30" height="30"/> <br> <a href="https://www.wipro.com/">Wipro</a></td>
       <td>
         <code>Node.js</code> <code>React.js</code> <br> <code>Ext.js</code> <code>MongoDB</code> <br> <code>Postman</code> <code>Python</code> <br> <code>Snowflake</code>
       </td>
