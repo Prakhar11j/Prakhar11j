@@ -57,32 +57,11 @@
 
 <br>
 
-
-<h2>📚 Academic  </h2>
-
-| | |  || | 
-|-----------|-----------|-----------|-----------|-----------|
-| BTech (CSE) | <img src="https://www.glbajajgroup.org/img/about-us/new-logo-glbajaj.webp" width="30" height="30"/> | GL Bajaj Instituite of Technology and Management  | 8 CGPA | Nov 21 - Nov 24 |
-| 10+2 (PCM) | <img src="https://github.com/dikshant945/dikshant945/blob/main/Main/army_logo.jpeg" width="30" height="30"/> | Army Public School (Nsd) Ajmer - CBSE| 88% | May 19 - Jul 20 |
-| 10  | <img src="https://github.com/dikshant945/dikshant945/blob/main/Main/army_logo.jpeg" width="30" height="30"/> | Army Public School SGNR - CBSE | 82% | Jan 17 - Feb 18 |
-
-
-<br>
-
-<h2>⚙️ Projects & Learning  </h2>
-
-| <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Live</h3> | <h3>TimeLine</h3> |
-|-----------|-----------|-----------|-----------|-----------|
-| Movie Critics  | [Code](https://github.com/maityamit/Github-Peek-Android-App) | ```Spring-Boot``` ```Java``` ```React-JS``` | https://react-movie-app-one-chi.vercel.app/ | Sep 23 - Oct 23 |
-| System Design With Head First Design Pattern  |[Code](https://github.com/dikshant945/SystemDesign) | ```LLD``` ```Java``` | | Sep 24 - Present |
-
-
-<br>
 <h3 align="left">⭐ Connect with me on social media & Coding Profile 📲 </h3>
 
-| LinkedIn | GitHub | Leetcode | Codeforces | Instagram | Email | Twitter |
-|----------|--------|----------|------------|-----------|-------|---------|
-| <p align="center"><a href="https://www.linkedin.com/in/prakhar2001/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></p> | <p align="center"><a href="https://github.com/Prakhar11j" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a></p> | <p align="center"><a href="https://leetcode.com/u/prakharrishi11j/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a></p>|<p align="center"><a href="mailto:prakharrishi11j@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" /></a></p> |
+| LinkedIn | GitHub | Leetcode | Email |
+|----------|--------|----------|-------|
+| <p align="center"><a href="https://www.linkedin.com/in/prakhar2001/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></p> | <p align="center"><a href="https://github.com/Prakhar11j" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a></p> | <p align="center"><a href="https://leetcode.com/u/prakharrishi11j/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a></p>|<p align="center"><a href="mailto:prakharrishi11j@gmail.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" /></a></p> |
 
    
 <br>
