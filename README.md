@@ -52,8 +52,6 @@
 - Highest contest Rating 1800+ at Leetcode with 850+ DSA Questions over 60+ consistent contests.
 - Ranked in the Top 6% globally also got 1013 out of 30k participants in Leetcode weekly 418 contest.
 - 2.5K+ LinkedIn 🚀
-- 📫 How to reach me: [Prakhar Srivastava](https://www.linkedin.com/in/Prakhar11j/)
-
 
 <br>
 
